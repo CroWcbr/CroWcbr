@@ -1,4 +1,4 @@
-# Cdarrell
+# Cdarrell - Cracked Darrell
 
 #### I'm student of Kazan School21
 
