@@ -9,4 +9,4 @@
 | 2   | [get_next_line](../../../get_next_line_42)           |   ✅      |   ✅   | 
 | 3   | [ft_printf](../../../ft_printf_42)                   |   ✅      |   ✅   | 
 | 4   | [pipex](../../../pipex_42)                           |   ✅      |   ✅   |  
-| 5   | [pusg_swap](../../../push_swap_42)                   |   ✅      |   ✅   |  
+| 5   | [push_swap](../../../push_swap_42)                   |   ✅      |   ✅   |  
