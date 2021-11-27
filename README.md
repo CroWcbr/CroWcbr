@@ -13,3 +13,5 @@
 | 6   | [fdf](../../../fdf_42)                               |   
 | 7   | [philosophers](../../../philosophers_42)             |   
 | 8   | [minishell]()                                        |   
+| 9   | [cub3d]()                                            |   
+| 10  | [CPP Module]()                                       |   
