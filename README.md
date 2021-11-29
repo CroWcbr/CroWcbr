@@ -1,7 +1,6 @@
 # Cdarrell
-## Kazan school21
 
-#### I'm student of Kazan School21
+### I'm student of Kazan School21
 
 ### 42cursus Progress
 | No  | Project                                              | Mandatory | Bonus  |
