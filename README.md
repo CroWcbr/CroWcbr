@@ -8,9 +8,9 @@
 | 1   | [Libft](../../../libft_42)                           |   ✅      |   ✅   |  
 | 2   | [get_next_line](../../../get_next_line_42)           |   ✅      |   ✅   | 
 | 3   | [ft_printf](../../../ft_printf_42)                   |   ✅      |   ✅   | 
-| 4   | [pipex](../../../pipex_42)                           |   ✅      |   ✅   |  
+| 4   | [pipex](../../../pipex_42)                           |   ✅      |   ✅   |  need check on Mac
 | 5   | [push_swap](../../../push_swap_42)                   |   ✅      |   ✅   |  
-| 6   | [fdf](../../../fdf_42)                               |   
+| 6   | [fdf](../../../fdf_42)                               |                       need check on Mac
 | 7   | [philosophers](../../../philosophers_42)             |   ✅      |   ✅   |  
 | 8   | minishell                                        |   
 | 9   | cub3d                                          |   
