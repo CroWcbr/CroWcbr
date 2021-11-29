@@ -11,7 +11,7 @@
 | 4   | [pipex](../../../pipex_42)                           |   ✅      |   ✅   |  
 | 5   | [push_swap](../../../push_swap_42)                   |   ✅      |   ✅   |  
 | 6   | [fdf](../../../fdf_42)                               |   
-| 7   | [philosophers](../../../philosophers_42)             |   
+| 7   | [philosophers](../../../philosophers_42)             |   ✅      |   ✅   |  
 | 8   | [minishell]()                                        |   
 | 9   | [cub3d]()                                            |   
 | 10  | [CPP Module]()                                       |   
