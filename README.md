@@ -15,5 +15,3 @@
 | 8   | minishell                                        |   
 | 9   | cub3d                                          |   
 | 10  | [CPP Module](../../../CPP_module_42)                                      |   
-
-need check pipex on Mac / may be wrong waitpid
