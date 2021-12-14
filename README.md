@@ -1,4 +1,4 @@
-# nick in school - Cdarrell
+# Cdarrell
 
 ### I'm student of Kazan School21
 
