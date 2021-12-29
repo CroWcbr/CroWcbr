@@ -13,7 +13,7 @@
 | 6   | [fdf](../../../fdf_42)                               |   ✅      |   ✅   |
 | 7   | [philosophers](../../../philosophers_42)             |   ✅      |   ✅   |
 | 8   | [minishell](../../../minishell_42)                   |   ✅      |   ✅   |   
-| 9   | cub3d                                                |   in process.     |
+| 9   | cub3d                                                |   in process.     |   ✅   |   
 | 10  | [CPP Module](../../../CPP_module_42)                 |   ✅      | all task |
-| 10  | ft_containers                |         |  |
-| 10  | webserver                |         |  |
+| 11  | ft_containers                |         |  |
+| 12  | webserver                |         |  |
