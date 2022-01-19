@@ -1,4 +1,5 @@
 # Cdarrell
+Telegramm - [@CrowF4i](http://t-do.ru/CrowF4i "Telegram channel")
 
 ### I'm student of Kazan School21
 
