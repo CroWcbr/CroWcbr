@@ -1,5 +1,5 @@
 # Cdarrell
-Telegramm - [@CrowF4i](http://t-do.ru/CrowF4i "Telegram channel")
+Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 
 ### I'm student of Kazan School21
 ![cdarrell's stats](https://badge42.herokuapp.com/api/stats/cdarrell)
