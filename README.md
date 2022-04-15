@@ -2,7 +2,6 @@
 Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 
 ### I'm student of Kazan School21
-![cdarrell's stats](https://badge42.herokuapp.com/api/stats/cdarrell)
 
 ### 42cursus Progress
 | No  | Project                                        | Mandatory | Bonus  | No  | Project                                      | Mandatory | Bonus  |
