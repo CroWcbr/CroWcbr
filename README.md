@@ -3,7 +3,7 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 
 ### I'm student of Kazan School21
 
-### 42cursus Progress
+### 42cursus Progress common-core
 | No  | Project                                        | Mandatory | Bonus  | No  | Project                                      | Mandatory | Bonus  |
 | :-: | :--------------------------------------------- | :-------: | :----: | :-: | :------------------------------------------- | :-------: | :----: |
 | 1   | [Libft](../../../libft_42)                     |   ✅      |   ✅   | 8   | [minishell](../../../minishell_42)            |   ✅      |   ✅   |
@@ -13,3 +13,8 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 | 5   | [push_swap](../../../push_swap_42)             |   ✅      |   ✅   | 12  | [ft_containers](../../../ft_containers_42)    |   ✅      |   ✅   |
 | 6   | [fdf](../../../fdf_42)                         |   ✅      |   ✅   | 13  | [ft_irc](../../../ft_irc_42)                  |   ✅      |   ✅   | 
 | 7   | [philosophers](../../../philosophers_42)       |   ✅      |   ✅   | 14  | [webserver](../../../webserv_42)              |   ✅      |   ✅   | 
+
+### 42cursus
+| No  | Project                                        | Mandatory | Bonus  |
+| :-: | :--------------------------------------------- | :-------: | :----: |
+| 1   | ft_computor_v1                                 |  in progress |     |
