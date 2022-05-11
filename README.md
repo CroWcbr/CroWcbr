@@ -3,7 +3,7 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 
 ### I'm student of Kazan School21
 
-### 42cursus Progress common-core
+### 42cursus common-core
 | No  | Project                                        | Mandatory | Bonus  | No  | Project                                      | Mandatory | Bonus  |
 | :-: | :--------------------------------------------- | :-------: | :----: | :-: | :------------------------------------------- | :-------: | :----: |
 | 1   | [Libft](../../../libft_42)                     |   ✅      |   ✅   | 8   | [minishell](../../../minishell_42)            |   ✅      |   ✅   |
@@ -17,4 +17,4 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 ### 42cursus
 | No  | Project                                        | Mandatory | Bonus  |
 | :-: | :--------------------------------------------- | :-------: | :----: |
-| 1   | ft_computor_v1                                 |  in progress |     |
+| 1   | [computor_v1](../../../computor_v1)            | ✅| in progress | 
