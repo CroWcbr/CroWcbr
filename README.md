@@ -17,4 +17,4 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 ### 42cursus
 | No  | Project                                        | Mandatory | Bonus  |
 | :-: | :--------------------------------------------- | :-------: | :----: |
-| 1   | [computor_v1](../../../computor_v1)            | ✅| in progress | 
+| 1   | [computor_v1](../../../computor_v1)            |    ✅    |   ✅   | 
