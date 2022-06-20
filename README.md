@@ -18,6 +18,8 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 | No  | Project                                        | Mandatory | Bonus  |
 | :-: | :--------------------------------------------- | :-------: | :----: |
 | 1   | [computor_v1](../../../computor_v1)            |    ✅    |   ✅   | 
+| 2   | [ft_ping](../../../ft_ping)                    |    ✅    |   in process   | 
+| 3   | computor_v2                                    |    in process    |   in process   | 
 
 ### Other
 | No  | Project                                        |
