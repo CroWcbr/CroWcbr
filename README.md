@@ -14,7 +14,7 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 | 6   | [fdf](../../../fdf_42)                         |   ✅      |   ✅   | 13  | [ft_irc](../../../ft_irc_42)                  |   ✅      |   ✅   | 
 | 7   | [philosophers](../../../philosophers_42)       |   ✅      |   ✅   | 14  | [webserver](../../../webserv_42)              |   ✅      |   ✅   | 
 
-### 42cursus
+### 42cursus - in process!
 | No  | Project                                        | Mandatory | Bonus  |
 | :-: | :--------------------------------------------- | :-------: | :----: |
 | 1   | [computor_v1](../../../computor_v1)            |    ✅    |   ✅   | 
