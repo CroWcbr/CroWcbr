@@ -25,3 +25,4 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 | No  | Project                                        |
 | :-: | :--------------------------------------------- |
 | 1   | [Proxy_server ](../../../Proxy_server )        |
+| 2   | [Simple_calc ](../../../Simple_calc )          |
