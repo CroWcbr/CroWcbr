@@ -19,7 +19,7 @@ Telegramm - [@CroWcbr](http://t-do.ru/CroWcbr "Telegram channel")
 | :-: | :--------------------------------------------- | :-------: | :----: |
 | 1   | [computor_v1](../../../computor_v1)            |    ✅    |   ✅   | 
 | 2   | [ft_ping](../../../ft_ping)                    |    ✅    |   in process   | 
-| 3   | [computor_v2](../../../computor_v1)            |    ✅    |   in process   | 
+| 3   | [computor_v2](../../../computor_v2)            |    ✅    |   in process   | 
 
 ### Other
 | No  | Project                                        |
