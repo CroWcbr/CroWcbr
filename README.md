@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Vitaliy
+
+I'm computer science student at School 42 !
+
+[<img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram">](https://t.me/CroWcbr)
+
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">](https://www.linkedin.com/in/vitaliy-shavnin/)
 
 <!--
 **CroWcbr/CroWcbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
