@@ -1,6 +1,10 @@
 ### Hi, I'm Vitaliy
 
-I'm computer science student at School 42 !
+I'm computer science student at School 42 (cdarrell) !
+
+I primarily write code in C/C++, occasionally in Python. Furthermore, I have a basic understanding of DevOps methodologies.
+
+I'm currently learning Unreal Engine.
 
 [<img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram">](https://t.me/CroWcbr)
 
